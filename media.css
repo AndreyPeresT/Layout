@@ -1,0 +1,6 @@
+@media (max-width: 1300px) {
+    .content-card {
+        height: 130vh;
+        flex-direction: column;
+    }
+}
